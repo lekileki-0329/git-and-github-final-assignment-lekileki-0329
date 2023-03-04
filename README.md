@@ -15,7 +15,7 @@ The following steps constitute your assignment :
 1. Finally, **commit** with the message `My 3 repositories has been created`, then **push your commit**.
 
 ## Recap Table
-The below table must contain the details of the repositories you will create, fill it please.
+The below table must contain the details of the repositories you will create, fill it please..
 
 
 |  | Project's Name | Description    | GitHub's Link  |
